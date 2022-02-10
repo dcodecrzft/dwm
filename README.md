@@ -7,12 +7,12 @@ the help of optional patches. Layouts can be applied dynamically, optimizing the
 - Vanity Gaps
 
 # Prerequisites
-```xorg-server```
-```xinit``` If you do not want to use a Display Manager. 
-```Xft```
-```Xinerama``` and a few other Xlib header files. 
-```Git```
-```base-devel```
+- xorg-server
+- Xinit. If you do not want to use a Display Manager. 
+- Xft
+- Xinerama and a few other Xlib header files. 
+- Git
+- base-devel
 
 # Download
 ```bash
